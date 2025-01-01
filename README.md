@@ -12,7 +12,6 @@ Whether you're a music enthusiast or a developer interested in data structures, 
 - **MP3 Music Playback**: Play, pause, stop, and skip tracks seamlessly.
 - **Playlist Creation**: Create, edit, and manage playlists using custom linked lists.
 - **Search and Search History**: Quickly find songs using a binary search tree and view search history implemented with a stack.
-- **Queue Management**: Add songs to a queue for playback using a custom queue implementation.
 - **Volume Control**: Adjust volume levels for an optimal listening experience.
 
 ### GUI Version (C++/CLR WinForms (still a work in progress))
@@ -31,7 +30,7 @@ Whether you're a music enthusiast or a developer interested in data structures, 
 
 Melodica Music Player leverages custom implementations of the following data structures:
 1. **Linked Lists**: Used for playlist creation and management.
-2. **Queues**: Manages the song queue for playback.
+2. **Queues**: Manages the song queue for playlists.
 3. **Stacks**: Stores and retrieves search history.
 4. **Binary Search Trees**: Enables efficient song searching and sorting.
 
