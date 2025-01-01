@@ -10,11 +10,17 @@ Whether you're a music enthusiast or a developer interested in data structures, 
 
 ### Core Functionalities
 - **MP3 Music Playback**: Play, pause, stop, and skip tracks seamlessly.
+ ![Screenshot 2025-01-01 123348](https://github.com/user-attachments/assets/bf778059-90d2-4e8c-8b7a-c4b9f13a9463)
+
 - **Playlist Creation**: Create, edit, and manage playlists using custom linked lists.
+![Screenshot 2025-01-01 123412](https://github.com/user-attachments/assets/06cb2a4f-31e1-4188-9d63-5a17df5ffbf7)
 - **Search and Search History**: Quickly find songs using a binary search tree and view search history implemented with a stack.
 - **Volume Control**: Adjust volume levels for an optimal listening experience.
 
 ### GUI Version (C++/CLR WinForms (still a work in progress))
+
+![Screenshot 2025-01-01 123329](https://github.com/user-attachments/assets/ae828167-102c-409e-b38c-9a31f26a0d98)
+
 - **Modern UI**: Inspired by Spotify and Anghami, the GUI offers an intuitive and visually appealing interface with the melodica visual identity.
 - **Interactive Playlist Management**: Drag-and-drop functionality to organize playlists.
 - **Visual Feedback**: Progress bars, album art display, and real-time updates.
@@ -38,6 +44,8 @@ These implementations demonstrate the practical application of data structures i
 
 ---
 
+
+---
 ## Installation
 
 ### GUI Version
